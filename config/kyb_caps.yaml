@@ -1,0 +1,14 @@
+platformName: Android
+#模拟器
+platformVersion: 4.4.2
+deviceName: 127.0.0.1:62001
+
+appname: kaoyan3.1.0.apk
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+ip: 127.0.0.1
+port: 4723
